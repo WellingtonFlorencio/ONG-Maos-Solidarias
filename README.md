@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como parte da **Entrega I – Fundamentos e Estrut
 
 **A versão em produção está disponível através da Vercel:**
 
-[![Acessar o Site Publicado](https://ong-maos-solidarias-z2kd.vercel.app/)](COLE A SUA URL DA VERCEL AQUI)
+[![Acessar o Site Publicado](https://ong-maos-solidarias-z2kd.vercel.app/)
 
 > *(O link acima será ativo após configurarmos o GitHub Pages no próximo passo.)*
 
