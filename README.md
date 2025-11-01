@@ -20,10 +20,8 @@ Este projeto foi desenvolvido como parte da **Entrega I – Fundamentos e Estrut
 ## 🚀 Acesse o Site Online
 
 **A versão em produção está disponível através da Vercel:**
+[![Acessar o Site Publicado](https://img.shields.io/badge/Projeto%20Publicado-Vercel-000000?style=for-the-badge&logo=vercel)](https://ong-maos-solidarias-z2kd.vercel.app/)
 
-[![Acessar o Site Publicado](https://ong-maos-solidarias-z2kd.vercel.app/)
-
-> *(O link acima será ativo após configurarmos o GitHub Pages no próximo passo.)*
 
 ---
 
