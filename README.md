@@ -15,9 +15,13 @@ Este projeto foi desenvolvido como parte da **Entrega I – Fundamentos e Estrut
 
 ---
 
-## 🖥️ Acesse o Site Online
+---
 
-👉 **[Clique aqui para acessar o site publicado](https://wellingtonflorencio.github.io/ONG-Maos-Solidarias/)**
+## 🚀 Acesse o Site Online
+
+**A versão em produção está disponível através da Vercel:**
+
+[![Acessar o Site Publicado](https://ong-maos-solidarias-z2kd.vercel.app/)](COLE A SUA URL DA VERCEL AQUI)
 
 > *(O link acima será ativo após configurarmos o GitHub Pages no próximo passo.)*
 
